@@ -3,7 +3,7 @@ HTML recipes
 
 
 # About
-This is a project for the HTML Foundations: a basic recipe website
+This is a project for the HTML Foundations: a basic **recipe website**
 
 # Skills needed
  - ### Git workflow
